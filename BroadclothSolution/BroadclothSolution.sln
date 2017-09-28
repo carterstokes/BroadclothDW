@@ -6,7 +6,8 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Documents", "Solution Documents", "{D4A5C404-BDBE-47C4-850A-6F761DA9977B}"
 	ProjectSection(SolutionItems) = preProject
 		..\..\..\..\..\Downloads\BroadClothObjectsWorksheet.xlsx = ..\..\..\..\..\Downloads\BroadClothObjectsWorksheet.xlsx
-		..\..\..\..\..\Downloads\Information Package 2.docx = ..\..\..\..\..\Downloads\Information Package 2.docx
+		..\..\..\..\..\Downloads\Dimensional Diagram.docx = ..\..\..\..\..\Downloads\Dimensional Diagram.docx
+		..\..\..\..\..\Downloads\Information Package Updated.docx = ..\..\..\..\..\Downloads\Information Package Updated.docx
 	EndProjectSection
 EndProject
 Global
